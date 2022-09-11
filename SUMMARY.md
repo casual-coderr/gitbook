@@ -20,3 +20,5 @@
 * [Git Cheat Sheet](git/git-cheat-sheet.md)
 
 ## Blog
+
+* [Paid Internships Through Nats-Portal](blog/paid-internships-through-nats-portal.md)
