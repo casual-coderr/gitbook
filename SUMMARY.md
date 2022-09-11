@@ -2,6 +2,11 @@
 
 * [Welcome to my Knowledge Garden !](README.md)
 
+## 💬 Blog
+
+* [Paid Internships Through Nats-Portal](blog/paid-internships-through-nats-portal.md)
+* [Create your own Bit.ly Service Using Cloudflare Workers](blog/create-your-own-bit.ly-service-using-cloudflare-workers.md)
+
 ## 🖨 Internet
 
 * [DNS](internet/dns.md)
@@ -18,8 +23,3 @@
 ## ⌚ Git
 
 * [Git Cheat Sheet](git/git-cheat-sheet.md)
-
-## 💬 Blog
-
-* [Paid Internships Through Nats-Portal](blog/paid-internships-through-nats-portal.md)
-* [Create your own Bit.ly Service Using Cloudflare Workers](blog/create-your-own-bit.ly-service-using-cloudflare-workers.md)
