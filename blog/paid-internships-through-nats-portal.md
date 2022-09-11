@@ -1,3 +1,9 @@
+---
+cover: >-
+  https://images.unsplash.com/photo-1553729459-efe14ef6055d?crop=entropy&cs=tinysrgb&fm=jpg&ixid=MnwxOTcwMjR8MHwxfHNlYXJjaHwxfHxlYXJufGVufDB8fHx8MTY2MjkwMjg3Nw&ixlib=rb-1.2.1&q=80
+coverY: 0
+---
+
 # Paid Internships Through Nats-Portal
 
 #### Get yourself the skills the Industry Needs from Apprentice Training.
