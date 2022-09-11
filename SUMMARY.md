@@ -19,6 +19,7 @@
 
 * [Git Cheat Sheet](git/git-cheat-sheet.md)
 
-## Blog
+## 💬 Blog
 
 * [Paid Internships Through Nats-Portal](blog/paid-internships-through-nats-portal.md)
+* [Create your own Bit.ly Service Using Cloudflare Workers](blog/create-your-own-bit.ly-service-using-cloudflare-workers.md)
