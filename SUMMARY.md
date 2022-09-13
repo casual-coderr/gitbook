@@ -23,3 +23,7 @@
 ## ⌚ Git
 
 * [Git Cheat Sheet](git/git-cheat-sheet.md)
+
+## Top Colleges QS Rankings 2023
+
+* [US](top-colleges-qs-rankings-2023/us.md)
