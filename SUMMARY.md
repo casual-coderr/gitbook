@@ -27,3 +27,4 @@
 ## Top Colleges QS Rankings 2023
 
 * [US](top-colleges-qs-rankings-2023/us.md)
+* [Germany](top-colleges-qs-rankings-2023/germany.md)
