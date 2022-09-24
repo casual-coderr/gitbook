@@ -17,6 +17,7 @@
 
 ## 📗 GRE
 
+* [Root Words](gre/root-words.md)
 * [GRE Exam](gre/gre-exam.md)
 * [Best Resources](gre/best-resources.md)
 
