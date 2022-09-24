@@ -9,3 +9,21 @@ coverY: 0
 The Exam to do to get your dreams.&#x20;
 
 Start Reading Soon.
+
+## English
+
+Punctuation Masterclass:
+https://www.youtube.com/watch?v=zVu-XvULZNg&list=PLjVfK1-aLReJiUqFNOn04EBsWNe6Ewubq
+
+LOR:
+https://sapling.ai/utilities/tone
+https://hemingwayapp.com/
+Grammarly
+
+Grammar Greg:
+
+How i studied
+
+Use Gregmat + play in 1.8-1.9x speed - use chrome extension
+Create a new quizzlet account as a teacher use greg words
+
