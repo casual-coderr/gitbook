@@ -13,11 +13,13 @@ Start Reading Soon.
 ## English
 
 Punctuation Masterclass:
-https://www.youtube.com/watch?v=zVu-XvULZNg&list=PLjVfK1-aLReJiUqFNOn04EBsWNe6Ewubq
+https://www.youtube.com/watch?v=zVu-XvULZNg
 
 LOR:
 https://sapling.ai/utilities/tone
+
 https://hemingwayapp.com/
+
 Grammarly
 
 Grammar Greg:
@@ -26,4 +28,7 @@ How i studied
 
 Use Gregmat + play in 1.8-1.9x speed - use chrome extension
 Create a new quizzlet account as a teacher use greg words
+
+SOP
+https://www.youtube.com/watch?v=LuD2Aa0zFiA
 
