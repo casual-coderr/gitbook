@@ -4,11 +4,13 @@
 
 ## 💬 Blog
 
-* [More than Just Numbers !!](blog/more-than-just-numbers.md)
 * [Climate Change Memes](blog/climate-change-memes.md)
+* [More than Just Numbers !!](blog/more-than-just-numbers.md)
+* [How to not be polarized in a digital world](blog/how-to-not-be-polarized-in-a-digital-world.md)
 * [Paid Internships Through Nats-Portal](blog/paid-internships-through-nats-portal.md)
 * [Create your own Bit.ly Service Using Cloudflare Workers](blog/create-your-own-bit.ly-service-using-cloudflare-workers.md)
-* [How to not be polarized in a digital world](blog/how-to-not-be-polarized-in-a-digital-world.md)
+* [Climate Change Myths !!](blog/climate-change-myths.md)
+* [Climate Change Resources](blog/climate-change-resources.md)
 
 ## 🖨 Internet
 
