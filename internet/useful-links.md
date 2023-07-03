@@ -20,6 +20,8 @@ Both People need to be online at the same time
 
 ## Denmark Specific
 
-<table><thead><tr><th width="245">Landlord Rent Services</th><th width="162"></th></tr></thead><tbody><tr><td><a href="https://renthero.dk">https://renthero.dk</a></td><td></td></tr></tbody></table>
+<table><thead><tr><th width="245">Landlord Rent Services</th><th width="162"></th></tr></thead><tbody><tr><td><a href="https://renthero.dk">https://renthero.dk</a></td><td>Rent Remedy and Legal Help</td></tr></tbody></table>
 
 <table><thead><tr><th width="245">Thrift Stores</th><th width="162"></th></tr></thead><tbody><tr><td>STUDENTERHUSET</td><td>First Sunday every month</td></tr></tbody></table>
+
+<table><thead><tr><th width="245">Insurance</th><th width="162"></th></tr></thead><tbody><tr><td><a href="https://www.undo.app/produkter">https://www.undo.app/produkter</a></td><td>Cheapest</td></tr></tbody></table>
