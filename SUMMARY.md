@@ -14,6 +14,7 @@
 
 ## 🖨 Internet
 
+* [Edit](internet/edit.md)
 * [Useful Links](internet/useful-links.md)
 * [DNS](internet/dns.md)
 * [DNS Server](internet/dns-server.md)
