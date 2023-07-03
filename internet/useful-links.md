@@ -1,5 +1,11 @@
 # Useful Links
 
+## Search Engines
+
+{% embed url="https://search.disroot.org/" %}
+
+{% embed url="https://qwant.com" %}
+
 ## File Transfer Websites
 
 ### With Limits
